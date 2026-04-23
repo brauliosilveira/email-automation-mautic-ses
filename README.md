@@ -319,3 +319,8 @@ I designed and implemented the automation architecture behind the project, inclu
 ## Contact
 
 If you would like a live walkthrough or want to discuss lifecycle automation, lead scoring systems, email infrastructure, or full-stack roles, feel free to reach out.
+
+- Website: https://www.brauliosilveira.com
+- LinkedIn: https://linkedin.com/in/brauliosilveira
+- Email: contact@brauliosilveira.com
+- YouTube: https://youtube.com/@venderpelowhats
